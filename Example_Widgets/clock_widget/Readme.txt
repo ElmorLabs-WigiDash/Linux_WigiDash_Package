@@ -1,0 +1,1 @@
+Simple Clock Widget in qml to switch digital / analog  when touched

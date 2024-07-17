@@ -1,0 +1,1 @@
+Simple Widget in qml to switch pictures when touched
